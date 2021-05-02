@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f93580a4.chunk.css",
+    "main.js": "/static/js/main.ecb512a1.chunk.js",
+    "main.js.map": "/static/js/main.ecb512a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c4c9f97b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c4c9f97b.js.map",
+    "static/js/2.4830d393.chunk.js": "/static/js/2.4830d393.chunk.js",
+    "static/js/2.4830d393.chunk.js.map": "/static/js/2.4830d393.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.70c70fc2769f9d89919d531b58c1f206.js": "/precache-manifest.70c70fc2769f9d89919d531b58c1f206.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f93580a4.chunk.css.map": "/static/css/main.f93580a4.chunk.css.map",
+    "static/js/2.4830d393.chunk.js.LICENSE.txt": "/static/js/2.4830d393.chunk.js.LICENSE.txt",
+    "static/media/pic1.png": "/static/media/pic1.7c06dde7.png",
+    "static/media/pic2.png": "/static/media/pic2.f546b44d.png",
+    "static/media/pic3.png": "/static/media/pic3.75bb6084.png",
+    "static/media/shakil-portfolio-pic-removebg-preview.png": "/static/media/shakil-portfolio-pic-removebg-preview.66951273.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c9f97b.js",
+    "static/js/2.4830d393.chunk.js",
+    "static/css/main.f93580a4.chunk.css",
+    "static/js/main.ecb512a1.chunk.js"
+  ]
+}
